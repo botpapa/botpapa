@@ -26,19 +26,19 @@ $ whoami --verbose
 
 <div align="center">
 
-![Solidity](https://img.shields.io/badge/Solidity-0d1117?style=flat-square&logo=solidity&logoColor=00FFA3)
-![Vyper](https://img.shields.io/badge/Vyper-0d1117?style=flat-square&logoColor=00FFA3)
-![Foundry](https://img.shields.io/badge/Foundry-0d1117?style=flat-square&logoColor=00FFA3)
-![Hardhat](https://img.shields.io/badge/Hardhat-0d1117?style=flat-square&logoColor=00FFA3)
-![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=00FFA3)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=00FFA3)
+<img src="https://img.shields.io/badge/Solidity-0d1117?style=flat-square&logo=solidity&logoColor=00FFA3" alt="Solidity" />
+<img src="https://img.shields.io/badge/Vyper-0d1117?style=flat-square&logoColor=00FFA3" alt="Vyper" />
+<img src="https://img.shields.io/badge/Foundry-0d1117?style=flat-square&logoColor=00FFA3" alt="Foundry" />
+<img src="https://img.shields.io/badge/Hardhat-0d1117?style=flat-square&logoColor=00FFA3" alt="Hardhat" />
+<img src="https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=00FFA3" alt="Rust" />
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=00FFA3" alt="TypeScript" />
 
-![Viem](https://img.shields.io/badge/Viem-0d1117?style=flat-square&logoColor=00FFA3)
-![Ethereum](https://img.shields.io/badge/Ethereum-0d1117?style=flat-square&logo=ethereum&logoColor=00FFA3)
-![The Graph](https://img.shields.io/badge/The_Graph-0d1117?style=flat-square&logo=thegraph&logoColor=00FFA3)
-![Circom](https://img.shields.io/badge/Circom_·_zk-0d1117?style=flat-square&logoColor=00FFA3)
-![IPFS](https://img.shields.io/badge/IPFS-0d1117?style=flat-square&logo=ipfs&logoColor=00FFA3)
-![Tenderly](https://img.shields.io/badge/Tenderly-0d1117?style=flat-square&logoColor=00FFA3)
+<img src="https://img.shields.io/badge/Viem-0d1117?style=flat-square&logoColor=00FFA3" alt="Viem" />
+<img src="https://img.shields.io/badge/Ethereum-0d1117?style=flat-square&logo=ethereum&logoColor=00FFA3" alt="Ethereum" />
+<img src="https://img.shields.io/badge/The_Graph-0d1117?style=flat-square&logo=thegraph&logoColor=00FFA3" alt="The Graph" />
+<img src="https://img.shields.io/badge/Circom_·_zk-0d1117?style=flat-square&logoColor=00FFA3" alt="Circom" />
+<img src="https://img.shields.io/badge/IPFS-0d1117?style=flat-square&logo=ipfs&logoColor=00FFA3" alt="IPFS" />
+<img src="https://img.shields.io/badge/Tenderly-0d1117?style=flat-square&logoColor=00FFA3" alt="Tenderly" />
 
 </div>
 
@@ -71,7 +71,7 @@ $ whoami --verbose
 
 <div align="center">
 
-<!-- змейка ползает по твоим контрибьюшнам — нужен GitHub Action, инструкция ниже -->
+<!-- змейка появится ТОЛЬКО после успешного прогона Action .github/workflows/snake.yml -->
 <img src="https://raw.githubusercontent.com/botpapa/botpapa/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
 </div>
