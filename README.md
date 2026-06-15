@@ -51,7 +51,7 @@ $ whoami --verbose
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=botpapa&hide_border=true&background=0d1117&stroke=00FFA3&ring=00FFA3&fire=00FFA3&currStreakLabel=00FFA3&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+<img src="https://streak-stats.demolab.com/?user=botpapa&hide_border=true&background=0d1117&stroke=00FFA3&ring=00FFA3&fire=00FFA3&currStreakLabel=00FFA3&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
 
 <br/>
 
